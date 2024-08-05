@@ -1,0 +1,28 @@
+_repo: Immortality-proved-by-the-testimony-of-sense-b-In-which-is-contemplated-the-doctrine-of-spect__74156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cummings, Abraham
+    gutenberg_agent_id: '57371'
+    url: http://www.gutenberg.org/2009/agents/57371
+description: ''
+gutenberg_issued: '2024-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74156'
+language: en
+pgterms:marc904: https://digitalmaine.com/cgi/viewcontent.cgi?article=1098&context=books
+pgterms:marc905: 20231122100502cummings
+pgterms:marc906: '1859'
+pgterms:marc907: US
+production_note: Carol Brown, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aPortland, Maine :$bJ. L. Lovell, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Immortality proved by the testimony of sense : $b In which is contemplated
+  the doctrine of spectres and the existence of a particular spectre'
+url: http://www.gutenberg.org/ebooks/74156
