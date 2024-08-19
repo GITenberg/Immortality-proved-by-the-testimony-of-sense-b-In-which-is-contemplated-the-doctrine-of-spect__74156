@@ -1,11 +1,16 @@
 _repo: Immortality-proved-by-the-testimony-of-sense-b-In-which-is-contemplated-the-doctrine-of-spect__74156
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74156-h/images/cover.jpg
 creator:
   author:
     agent_name: Cummings, Abraham
     gutenberg_agent_id: '57371'
     url: http://www.gutenberg.org/2009/agents/57371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74156#Immortality-proved-by-the-testimony-of-sense-b-In-which-is-contemplated-the-doctrine-of-spect_
 gutenberg_issued: '2024-07-30'
 gutenberg_type: Text
 identifiers:
